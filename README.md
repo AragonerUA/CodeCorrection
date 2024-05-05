@@ -14,6 +14,11 @@ Here we are!
 
 Example of usage with test file in the project:
 
+1) Commands: 
 <img width="1470" alt="Знімок екрана 2024-05-05 о 17 05 10" src="https://github.com/AragonerUA/CodeCorrection/assets/57654715/7ef68334-655b-4f6e-869b-662315535509">
+
+2) First output for the file:
 <img width="460" alt="Знімок екрана 2024-05-05 о 17 09 00" src="https://github.com/AragonerUA/CodeCorrection/assets/57654715/bff0511c-e015-45fa-a97b-dba5295b98d2">
+
+3) Corrected output:
 <img width="459" alt="Знімок екрана 2024-05-05 о 17 26 25" src="https://github.com/AragonerUA/CodeCorrection/assets/57654715/1f7b12ae-e686-4307-a98d-591da0a2a632">
