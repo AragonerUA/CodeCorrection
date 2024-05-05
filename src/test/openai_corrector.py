@@ -3,7 +3,7 @@ from openai import OpenAI
 import sys
 import json
 
-client = OpenAI(api_key="sk-proj-bNBTnuutLF22LHnbQ3S8T3BlbkFJwXLijJh9ZvHcg57Zd8Es")
+client = OpenAI(api_key="")
 
 
 def get_corrected_code(prompt):
