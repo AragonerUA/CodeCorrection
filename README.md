@@ -11,3 +11,9 @@
   java -jar <NAME_OF_JAR_FILE>.jar <PATH_TO_THE_PYTHON_FILE_TO_BE_FIXED>
 
 Here we are!
+
+Example of usage with test file in the project:
+
+<img width="1470" alt="Знімок екрана 2024-05-05 о 17 05 10" src="https://github.com/AragonerUA/CodeCorrection/assets/57654715/7ef68334-655b-4f6e-869b-662315535509">
+<img width="460" alt="Знімок екрана 2024-05-05 о 17 09 00" src="https://github.com/AragonerUA/CodeCorrection/assets/57654715/bff0511c-e015-45fa-a97b-dba5295b98d2">
+<img width="532" alt="Знімок екрана 2024-05-05 о 17 09 10" src="https://github.com/AragonerUA/CodeCorrection/assets/57654715/0c0709c6-1489-4933-9acc-b331b9720524">
